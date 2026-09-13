@@ -1,49 +1,69 @@
 <h1 align="center">Rana Mahmoud</h1>
 
 <p align="center">
-  Artificial Intelligence Student
+  <b>Artificial Intelligence Student</b>
 </p>
 
 <p align="center">
-  <i>learning • building • exploring</i>
+  learning • building • exploring
+</p>
+
+<p align="center">
+  <img src="./assets/profile.png" width="380" alt="Rana profile illustration">
 </p>
 
 <br>
 
-## About me
+## 🌷 About me
 
 I'm an Artificial Intelligence student in Jordan, interested in  
-AI, automation, data, and software development.
+**AI, Machine Learning, Automation, and Data.**
 
 I enjoy learning new technologies and turning what I learn into small projects.
 
 <br>
 
-## Currently focusing on
+## ✨ Currently focusing on
 
-`Python` &nbsp; `Machine Learning` &nbsp; `n8n Automation` &nbsp; `MySQL` &nbsp; `Data Analysis`
+<p>
+  <img src="https://img.shields.io/badge/Python-F7D6E0?style=flat-square&logo=python&logoColor=5C5470">
+  <img src="https://img.shields.io/badge/Machine%20Learning-E4C1F9?style=flat-square&logoColor=5C5470">
+  <img src="https://img.shields.io/badge/n8n%20Automation-DCECFB?style=flat-square&logo=n8n&logoColor=5C5470">
+  <img src="https://img.shields.io/badge/MySQL-FFF0D9?style=flat-square&logo=mysql&logoColor=5C5470">
+  <img src="https://img.shields.io/badge/Data%20Analysis-D9F0E4?style=flat-square&logoColor=5C5470">
+</p>
 
 <br>
 
-## Languages & Technologies
+## 💻 Languages & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Python-f3e6eb?style=flat-square&logo=python&logoColor=5b4b55">
-  <img src="https://img.shields.io/badge/JavaScript-f3e6eb?style=flat-square&logo=javascript&logoColor=5b4b55">
-  <img src="https://img.shields.io/badge/HTML5-f3e6eb?style=flat-square&logo=html5&logoColor=5b4b55">
-  <img src="https://img.shields.io/badge/CSS3-f3e6eb?style=flat-square&logo=css3&logoColor=5b4b55">
-  <img src="https://img.shields.io/badge/MySQL-f3e6eb?style=flat-square&logo=mysql&logoColor=5b4b55">
-  <img src="https://img.shields.io/badge/n8n-f3e6eb?style=flat-square&logo=n8n&logoColor=5b4b55">
-  <img src="https://img.shields.io/badge/Prolog-f3e6eb?style=flat-square&logoColor=5b4b55">
+  <img src="https://img.shields.io/badge/Python-F7D6E0?style=flat-square&logo=python&logoColor=5C5470">
+  <img src="https://img.shields.io/badge/JavaScript-FFF0D9?style=flat-square&logo=javascript&logoColor=5C5470">
+  <img src="https://img.shields.io/badge/HTML5-F7D6E0?style=flat-square&logo=html5&logoColor=5C5470">
+  <img src="https://img.shields.io/badge/CSS3-DCECFB?style=flat-square&logo=css3&logoColor=5C5470">
+  <img src="https://img.shields.io/badge/MySQL-E4C1F9?style=flat-square&logo=mysql&logoColor=5C5470">
+  <img src="https://img.shields.io/badge/n8n-D9F0E4?style=flat-square&logo=n8n&logoColor=5C5470">
+  <img src="https://img.shields.io/badge/Prolog-FFF0D9?style=flat-square&logoColor=5C5470">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Java-Basic-e8dde2?style=flat-square&logo=openjdk&logoColor=5b4b55">
-  <img src="https://img.shields.io/badge/C++-Basic-e8dde2?style=flat-square&logo=cplusplus&logoColor=5b4b55">
+  <img src="https://img.shields.io/badge/Java-Basic-EDE7F6?style=flat-square&logo=openjdk&logoColor=5C5470">
+  <img src="https://img.shields.io/badge/C++-Basic-EDE7F6?style=flat-square&logo=cplusplus&logoColor=5C5470">
+</p>
+
+<br>
+
+## 🌸 Connect with me
+
+<p>
+  <a href="PUT-YOUR-LINKEDIN-LINK-HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DCECFB?style=flat-square&logo=linkedin&logoColor=5C5470">
+  </a>
 </p>
 
 <br>
 
 <p align="center">
-  <i>always learning, one step at a time.</i>
+  <i>🌱 always learning, one step at a time.</i>
 </p>
