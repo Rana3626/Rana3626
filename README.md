@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile.png" width="380" alt="Rana profile illustration">
+  <img src="profile.png" width="380" alt="Rana profile illustration">
 </p>
 
 <br>
@@ -57,7 +57,7 @@ I enjoy learning new technologies and turning what I learn into small projects.
 ## 🌸 Connect with me
 
 <p>
-  <a href="PUT-YOUR-LINKEDIN-LINK-HERE">
+  <a href="https://www.linkedin.com/in/rana-mahmoud-bb1b5135a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DCECFB?style=flat-square&logo=linkedin&logoColor=5C5470">
   </a>
 </p>
