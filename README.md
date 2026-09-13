@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rana 👋</h1>
+<h1 align="center">Rana Mahmoud</h1>
 
 <p align="center">
   Artificial Intelligence Student • Learning • Building • Exploring
@@ -20,12 +20,9 @@
 
 - 🐍 Python
 - ⚙️ n8n & Workflow Automation
-- 🌐 HTML, CSS & JavaScript
-- 🗄️ MySQL
-- 🧠 Prolog
-- ☕ Java
-- 💻 C++
-
+- 🌐 Machine learnong
+- 🗄️ DB
+- 🧠 Data analysis
 ---
 
 ## Technologies
@@ -46,7 +43,7 @@
 
 ## Connect With Me
 
-<a href="[PUT-YOUR-LINKEDIN-LINK-HERE](https://www.linkedin.com/in/rana-mahmoud-bb1b5135a )">
+<a href="(https://www.linkedin.com/in/rana-mahmoud-bb1b5135a )">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-F5D5E0?style=flat&logo=linkedin&logoColor=333333"/>
 </a>
 
