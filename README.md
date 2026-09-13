@@ -29,7 +29,7 @@ I enjoy learning new technologies and turning what I learn into small projects.
   <img src="https://img.shields.io/badge/Python-F7D6E0?style=flat-square&logo=python&logoColor=5C5470">
   <img src="https://img.shields.io/badge/Machine%20Learning-E4C1F9?style=flat-square&logoColor=5C5470">
   <img src="https://img.shields.io/badge/n8n%20Automation-DCECFB?style=flat-square&logo=n8n&logoColor=5C5470">
-  <img src="https://img.shields.io/badge/MySQL-FFF0D9?style=flat-square&logo=mysql&logoColor=5C5470">
+  <img src="https://img.shields.io/badge/DB-FFF0D9?style=flat-square&logo=mysql&logoColor=5C5470">
   <img src="https://img.shields.io/badge/Data%20Analysis-D9F0E4?style=flat-square&logoColor=5C5470">
 </p>
 
